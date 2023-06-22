@@ -1,1 +1,1 @@
-New file using bare repo
+some text
