@@ -1,4 +1,4 @@
-description: A description of a package.
+description: A longer description of a package.
 packages:
 - zlib@1.4
 - pandas@3.2
