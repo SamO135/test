@@ -1,5 +1,2 @@
-description: A description of a package.
-packages:
-- zlib@1.4
-- pandas@3.2
-- pydantic
+using the modified 'create environment' code
+UPDATE
