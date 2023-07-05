@@ -1,0 +1,5 @@
+description: A description of a pacakge.
+packages:
+- - zlib@1.4
+- pandas@3.2
+- pydantic
